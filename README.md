@@ -27,5 +27,11 @@ This is a simple web application that allows users to search for movies by name.
 
 ## Future Improvements
 
-- Add pagination to display more than 10 results
-- Show more details about each movie
+1) Enhance Movie Search App UI
+2. IncorporateLoadingSpinner
+3. ImplementMovieDetails(moreofthem)
+4. IntegrateAdditionalAPI(Any-IMDBratingorso)
+5. ImplementSearchHistory
+6. ErrorHandling(Abetterone)
+7. FavoriteMoviesList(Differenttab)
+
