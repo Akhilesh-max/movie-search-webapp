@@ -1,7 +1,8 @@
-let prime = (n) => {
-    for(let i = 2; i < n; i++){
-        if(n%i==0) return false;
-    }
-    return true;
+function add(a,b){
+    do{
+        console.log(a+b);
+    }while(true)
 }
-console.log(prime(9));
+let a= "divyanshu";
+let b= "spanked";
+add(a,b);
