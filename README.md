@@ -25,13 +25,5 @@ This is a simple web application that allows users to search for movies by name.
 1. Clone this repository.
 2. Open `index.html` in your browser.
 
-## Future Improvements
 
-1) Enhance Movie Search App UI
-2. IncorporateLoadingSpinner
-3. ImplementMovieDetails(moreofthem)
-4. IntegrateAdditionalAPI(Any-IMDBratingorso)
-5. ImplementSearchHistory
-6. ErrorHandling(Abetterone)
-7. FavoriteMoviesList(Differenttab)
 
