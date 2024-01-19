@@ -22,8 +22,29 @@ This is a simple web application that allows users to search for movies by name.
 
 ## How to Run Locally
 
-1. Clone this repository.
-2. Open `index.html` in your browser.
+# Available Scripts
+
+Firstly you will need node modules to run this code, you can do that by running the following command in the terminal:
+
+# `npm install`
+
+
+Here are some other important terminal commands you can run:
+
+# `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+# `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
 
 
 
