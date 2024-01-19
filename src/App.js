@@ -6,7 +6,7 @@ import MovieCard from './MovieCard';
 
 
 const API_URL = 'http://www.omdbapi.com?apikey=[d0c811d8]';
-
+// you can enter your api key here, or can use mine.
 
 
 const Emoji = props => (
