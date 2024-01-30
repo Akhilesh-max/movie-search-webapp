@@ -45,10 +45,13 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-## Connect with Me 🌐
+## Connect with Me 🤝
 
-Feel free to connect with me on social media:
+Having any query?? 
 
 [![Twitter: Akhilesh](https://img.shields.io/twitter/follow/AKY241005?style=social)](https://twitter.com/aky241005) &nbsp;&nbsp;
+[![Linkedin: Akhilesh](https://img.shields.io/badge/-AkhileshKr.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/akhilesh-kr-yadav) &nbsp;&nbsp;
+<a href="https://leetcode.com/Akhilesh-max/">
+
 
 
